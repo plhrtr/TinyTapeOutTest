@@ -17,4 +17,4 @@ WIP
 
 ## External hardware
 
-/
+TODO
